@@ -1,3 +1,5 @@
+package com.weatherapp;
+
 import java.io.IOException;
 
 public class WeatherFetcher {
