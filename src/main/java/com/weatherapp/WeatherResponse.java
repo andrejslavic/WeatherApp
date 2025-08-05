@@ -9,7 +9,6 @@ public class WeatherResponse {
 
     public static class CurrentWeather {
         public double temperature;
-        public double windspeed;
         public int weathercode;
     }
 }
